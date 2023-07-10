@@ -10,7 +10,8 @@ https://drive.google.com/file/d/1XDUHz89ZHK7tXpgCz_KUFe-8wcMnU3PM/view?usp=shari
 
 Here's a description of the Apps UI and functinality:
 
-<img src="[image_url](https://github.com/5hrivathsa/QuickChat/assets/106436631/72f8cd95-9784-40aa-abc3-8cb86da3c6f1)" width="50" height="100" alt="Login Screen">
+<img src="https://github.com/5hrivathsa/QuickChat/assets/106436631/72f8cd95-9784-40aa-abc3-8cb86da3c6f1" width="50" height="100" alt="Login Screen">
+<!-- ![Login Screen](https://github.com/5hrivathsa/QuickChat/assets/106436631/cb617ebf-077d-4022-bd10-ddf29bf1c31e) -->
 
 ![Main Screen and side nav bar](https://github.com/5hrivathsa/QuickChat/assets/106436631/cb617ebf-077d-4022-bd10-ddf29bf1c31e)
 
