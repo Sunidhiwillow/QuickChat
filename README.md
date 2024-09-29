@@ -8,7 +8,7 @@ realtime. Users can install the app using the APK provided below :
 
 https://drive.google.com/file/d/1XDUHz89ZHK7tXpgCz_KUFe-8wcMnU3PM/view?usp=sharing
 
-Here's a description of the Apps UI and functinality:
+Here's a description of the Apps UI and functionality:
 
 <img src="https://github.com/5hrivathsa/QuickChat/assets/106436631/72f8cd95-9784-40aa-abc3-8cb86da3c6f1" width="250" height="550">         
 <img src="https://github.com/5hrivathsa/QuickChat/assets/106436631/cb617ebf-077d-4022-bd10-ddf29bf1c31e" width="250" height="550">          
